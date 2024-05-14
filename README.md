@@ -18,12 +18,12 @@
 ## Demo:
 
 - API end points
-- ![CREATE endpoint](https://github.com/AshishKothariii/gotalkapi/blob/main/Public/create.png)
-- ![Login endpoint](https://github.com/AshishKothariii/gotalkapi/blob/main/Public/login.png)
-- ![profile endpoint](https://github.com/AshishKothariii/gotalkapi/blob/main/Public/profile.png)
-- ![users/:username endpoint](https://github.com/AshishKothariii/gotalkapi/blob/main/Public/user.png)
-- - ![websocket send](https://github.com/AshishKothariii/gotalkapi/blob/main/Public/websocket.png)
-- - ![websocket receive](https://github.com/AshishKothariii/gotalkapi/blob/main/Public/websocket_receive.png)
+- ![CREATE endpoint](https://github.com/AshishKothariii/gotalkapi/blob/main/public/create.png)
+- ![Login endpoint](https://github.com/AshishKothariii/gotalkapi/blob/main/public/login.png)
+- ![profile endpoint](https://github.com/AshishKothariii/gotalkapi/blob/main/public/profile.png)
+- ![users/:username endpoint](https://github.com/AshishKothariii/gotalkapi/blob/main/public/user.png)
+- - ![websocket send](https://github.com/AshishKothariii/gotalkapi/blob/main/public/websocket.png)
+- - ![websocket receive](https://github.com/AshishKothariii/gotalkapi/blob/main/public/websocket_receive.png)
 
 ## Technical Stack:
 
