@@ -12,7 +12,7 @@
 
 ## Features:
 
-- This Project follows Clean Architecture/HExagonal Architecture.
+- This Project follows Clean Architecture/Hexagonal Architecture.
 - Create, Login, Authorize, Send and Receive Message
 
 ## Demo:
