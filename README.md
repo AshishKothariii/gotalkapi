@@ -25,18 +25,7 @@
 - - ![websocket send](https://github.com/AshishKothariii/gotalkapi/blob/main/public/websocket.png)
 - - ![websocket receive](https://github.com/AshishKothariii/gotalkapi/blob/main/public/websocket_receive.png)
 
-## Technical Stack:
 
-- Android Studio
-- MapLibre Native library for Android
-
-## Getting Started:
-
-- Go to [Testing.md](https://github.com/AshishKothariii/gotalkapi/blob/main/Testing.md) for testing this app.
-
-## Important Note:
-
-- This project focuses on core functionalities and serves as a demonstration. It doesn't implement the full features of app.
 
 ## Potential Enhancements:
 
